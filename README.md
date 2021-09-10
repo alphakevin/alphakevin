@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working remote at home
+- 🔭 I’m currently working remotely at home
 - ⬡ Node.js & React / Typescript ...
 - 🌱 I’m currently learning Golang, Rust ...
 - ⚡ Fun fact: my name Alvin is short for ALpha keVIN, Alpha is me and Kevin is my friend in college, we created AKStudio for designing
